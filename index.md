@@ -28,7 +28,7 @@ See also  [Robotics Infrastructure - Mechatronics](https://www.lcsr.jhu.edu/Infr
  * Schematics (pdf)
    * Quad Linear Amplifier (QLA): [Rev 1.2](https://github.com/jhu-cisst/mechatronics-boards/blob/QLA_Rev1.2/Rev1.2/QLA-Schematics.pdf)
    * IEEE-1394 FPGA Board (FPGA1394): [Rev 1.0/1.1](https://github.com/jhu-cisst/mechatronics-boards/blob/FPGA1394_Rev1.0/Rev1.0/FPGA1394-Schematics.pdf)
- * [How to program the FPGA board](https://trac.lcsr.jhu.edu/mechatronics/wiki/ProgramFPGA)
+ * [How to program the FPGA board](https://github.com/jhu-cisst/mechatronics-firmware/wiki/FPGA-Program)
  * [Board (FPGA1394 & QLA) release notes](https://github.com/jhu-cisst/mechatronics-boards/wiki/Release-note)
  * [FPGA firmware release notes](https://github.com/jhu-cisst/mechatronics-firmware/wiki/FPGA-Release-Note)
 
