@@ -18,10 +18,10 @@ See also  [Robotics Infrastructure - Mechatronics](https://www.lcsr.jhu.edu/Infr
 ## Documentation
 
 ### Software
- * [Development Eveironment (Linux)](https://trac.lcsr.jhu.edu/mechatronics/wiki/DevelopmentEnvironment)
- * [Interface Specification (IEEE-1394 packet formats)](https://trac.lcsr.jhu.edu/mechatronics/wiki/InterfaceSpec)
+ * [Development Eveironment (Linux)](https://github.com/jhu-cisst/mechatronics-software/wiki/Development-Environment)
+ * [Interface Specification (IEEE-1394 packet formats)](https://github.com/jhu-cisst/mechatronics-software/wiki/InterfaceSpec)
  * [Low-level Software API](https://github.com/jhu-cisst/mechatronics-software/wiki/Low-Level-Software-API)
- * [Low-level Example Programs](https://github.com/jhu-cisst/mechatronic)
+ * [Low-level Example Programs](https://github.com/jhu-cisst/mechatronics-software/wiki/Example-Programs)
  * [da Vinci Research Kit](https://trac.lcsr.jhu.edu/cisst/wiki/sawIntuitiveResearchKitTutorial)
 
 ### Hardware
