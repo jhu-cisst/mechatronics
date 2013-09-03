@@ -18,7 +18,7 @@ See also  [Robotics Infrastructure - Mechatronics](https://www.lcsr.jhu.edu/Infr
 ## Documentation
 
 ### Software
- * [Development Eveironment (Linux)](https://github.com/jhu-cisst/mechatronics-software/wiki/Development-Environment)
+ * [Development Environment (Linux)](https://github.com/jhu-cisst/mechatronics-software/wiki/Development-Environment)
  * [Interface Specification (IEEE-1394 packet formats)](https://github.com/jhu-cisst/mechatronics-software/wiki/InterfaceSpec)
  * [Low-level Software API](https://github.com/jhu-cisst/mechatronics-software/wiki/Low-Level-Software-API)
  * [Low-level Example Programs](https://github.com/jhu-cisst/mechatronics-software/wiki/Example-Programs)
