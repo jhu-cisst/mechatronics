@@ -10,8 +10,7 @@ title: Mechatronics
 
 This site is dedicated to the development of open source mechatronics. Specifically, it contains design files and documentation for a motor controller with an IEEE-1394a (Firewire) interface. The controller consists of two boards: FPGA1394 and QLA. The FPGA1394 board contains a Xilinx FPGA to minimize the latency between the Firewire bus and the controller I/O. The Quad Linear Amplifier (QLA) board contains four linear amplifiers for controlling four DC brush motors. These controllers can be used to drive the da Vinci Research Kit, which consists of the mechanical components of the first-generation da Vinci (known as the da Vinci Classic).
 
-Please check the SVN repository, either by using the Browse Source tab above or by doing an SVN checkout from  [https://svn.lcsr.jhu.edu/mechatronics/trunk](https://svn.lcsr.jhu.edu/mechatronics/trunk).
-Please clone from git repository from GitHub:  
+Please clone from git repository:  
  * Boards Design: [https://github.com/jhu-cisst/mechatronics-boards](https://github.com/jhu-cisst/mechatronics-boards)
  * Firmware: [https://github.com/jhu-cisst/mechatronics-firmware](https://github.com/jhu-cisst/mechatronics-firmware)
  * Software: [https://github.com/jhu-cisst/mechatronics-software](https://github.com/jhu-cisst/mechatronics-software)
