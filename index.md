@@ -25,7 +25,7 @@ See also  [Robotics Infrastructure - Mechatronics](https://www.lcsr.jhu.edu/Infr
  * [Interface Specification (IEEE-1394 packet formats)](https://github.com/jhu-cisst/mechatronics-software/wiki/InterfaceSpec)
  * [Low-level Software API](https://github.com/jhu-cisst/mechatronics-software/wiki/Low-Level-Software-API)
  * [Low-level Example Programs](https://github.com/jhu-cisst/mechatronics-software/wiki/Example-Programs)
- * [da Vinci Research Kit](https://trac.lcsr.jhu.edu/cisst/wiki/sawIntuitiveResearchKitTutorial)
+ * [da Vinci Research Kit](https://github.com/jhu-dvrk/sawIntuitiveResearchKit/wiki)
 
 ### Hardware
  * Schematics (pdf)
