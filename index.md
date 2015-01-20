@@ -30,10 +30,10 @@ See also  [Robotics Infrastructure - Mechatronics](https://www.lcsr.jhu.edu/Infr
 ### Hardware
  * FPGA-1394 Board:
    * [Release Notes](https://github.com/jhu-cisst/FPGA1394#release-notes)
-   * Schematics: [Rev 1.2](https://github.com/jhu-cisst/FPGA1394/blob/Rev1.2/FPGA1394-Schematics.pdf), [Rev 1.0/1.1](https://github.com/jhu-cisst/FPGA1394/blob/Rev1.1/FPGA1394-Schematics.pdf)
+   * Schematics: [Rev 1.2](https://github.com/jhu-cisst/FPGA1394/raw/Rev1.2/FPGA1394-Schematics.pdf), [Rev 1.0/1.1](https://github.com/jhu-cisst/FPGA1394/raw/Rev1.1/FPGA1394-Schematics.pdf)
  * Quad Linear Amplifier (QLA) Board:
    * [Release Notes](https://github.com/jhu-cisst/QLA#release-notes)
-   * Schematics: [Rev 1.3](https://github.com/jhu-cisst/QLA/blob/Rev1.3-2014/QLA-Schematics.pdf), [Rev 1.2](https://github.com/jhu-cisst/QLA/blob/Rev1.2/QLA-Schematics.pdf)
+   * Schematics: [Rev 1.3](https://github.com/jhu-cisst/QLA/raw/Rev1.3-2014/QLA-Schematics.pdf), [Rev 1.2](https://github.com/jhu-cisst/QLA/raw/Rev1.2/QLA-Schematics.pdf)
  * [How to program the FPGA board](https://github.com/jhu-cisst/mechatronics-firmware/wiki/FPGA-Program)
  * [FPGA firmware release notes](https://github.com/jhu-cisst/mechatronics-firmware/wiki/FPGA-Release-Note)
 
