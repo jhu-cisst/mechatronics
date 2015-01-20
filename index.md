@@ -15,7 +15,7 @@ Please clone from git repositories:
  - Firmware: [https://github.com/jhu-cisst/mechatronics-firmware](https://github.com/jhu-cisst/mechatronics-firmware)  
  - Software: [https://github.com/jhu-cisst/mechatronics-software](https://github.com/jhu-cisst/mechatronics-software)  
 
-See also  [Robotics Infrastructure - Mechatronics](https://www.lcsr.jhu.edu/Infrastructure/Mechatronic).
+See also  [Robotics Infrastructure - Mechatronics](http://lcsr.jhu.edu/robotics-infrastructure-development-project).
 
 
 ## Documentation
