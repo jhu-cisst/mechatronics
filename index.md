@@ -36,6 +36,6 @@ See also  [Robotics Infrastructure - Mechatronics](https://www.lcsr.jhu.edu/Infr
    * Schematics: [Rev 1.3](https://github.com/jhu-cisst/QLA/raw/Rev1.3-2014/QLA-Schematics.pdf), [Rev 1.2](https://github.com/jhu-cisst/QLA/raw/Rev1.2/QLA-Schematics.pdf)
 
 ### Firmware
- * [Release Notes](https://github.com/jhu-cisst/mechatronics-firmware/wiki/FPGA-Release-Note)
+ * [Release Notes](https://github.com/jhu-cisst/mechatronics-firmware/wiki/FPGA-Firmware-Release-Notes)
  * [How to program the FPGA board](https://github.com/jhu-cisst/mechatronics-firmware/wiki/FPGA-Program)
 
