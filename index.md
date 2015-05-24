@@ -40,5 +40,5 @@ See also  [Robotics Infrastructure - Mechatronics](http://lcsr.jhu.edu/robotics-
  * [How to program the FPGA board](https://github.com/jhu-cisst/mechatronics-firmware/wiki/FPGA-Program)
 
 ### Production Testing
- * [Programming and Testing the FPGA/QLA](wiki/ProductionTesting)
+ * [Programming and Testing the FPGA/QLA](https://github.com/jhu-cisst/mechatronics/wiki/ProductionTesting)
 
