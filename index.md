@@ -30,10 +30,10 @@ See also  [Robotics Infrastructure - Mechatronics](http://lcsr.jhu.edu/robotics-
 ### Hardware
  * FPGA-1394 Board:
    * [Release Notes](https://github.com/jhu-cisst/FPGA1394#release-notes)
-   * Schematics: [Rev 2.1](https://github.com/jhu-cisst/FPGA1394/raw/master/FPGA1394-Schematics.pdf), [Rev 2.0](https://github.com/jhu-cisst/FPGA1394/raw/Rev2.0/FPGA1394-Schematics.pdf), [Rev 1.3](https://github.com/jhu-cisst/FPGA1394/raw/Rev1.3/FPGA1394-Schematics.pdf), [Rev 1.2](https://github.com/jhu-cisst/FPGA1394/raw/Rev1.2/FPGA1394-Schematics.pdf), [Rev 1.0/1.1](https://github.com/jhu-cisst/FPGA1394/raw/Rev1.1/FPGA1394-Schematics.pdf)
+   * Schematics: [Rev 2.1](https://github.com/jhu-cisst/FPGA1394/Rev2.1/master/FPGA1394-Schematics.pdf), [Rev 2.0](https://github.com/jhu-cisst/FPGA1394/raw/Rev2.0/FPGA1394-Schematics.pdf), [Rev 1.3](https://github.com/jhu-cisst/FPGA1394/raw/Rev1.3/FPGA1394-Schematics.pdf), [Rev 1.2](https://github.com/jhu-cisst/FPGA1394/raw/Rev1.2/FPGA1394-Schematics.pdf), [Rev 1.0/1.1](https://github.com/jhu-cisst/FPGA1394/raw/Rev1.1/FPGA1394-Schematics.pdf)
  * Quad Linear Amplifier (QLA) Board:
    * [Release Notes](https://github.com/jhu-cisst/QLA#release-notes)
-   * Schematics: [Rev 1.4](https://github.com/jhu-cisst/QLA/raw/master/QLA-Schematics.pdf), [Rev 1.3](https://github.com/jhu-cisst/QLA/raw/Rev1.3-2014/QLA-Schematics.pdf), [Rev 1.2](https://github.com/jhu-cisst/QLA/raw/Rev1.2/QLA-Schematics.pdf)
+   * Schematics: [Rev 1.4](https://github.com/jhu-cisst/QLA/raw/Rev1.4/QLA-Schematics.pdf), [Rev 1.3](https://github.com/jhu-cisst/QLA/raw/Rev1.3-2014/QLA-Schematics.pdf), [Rev 1.2](https://github.com/jhu-cisst/QLA/raw/Rev1.2/QLA-Schematics.pdf)
  * Board Assembly (mating of FPGA-1394 to QLA):
    * Qty 4, Round Standoff, Alum. 5/8", McMaster-Carr P/N 93330A436
    * Qty 8, Screw, 4-40
