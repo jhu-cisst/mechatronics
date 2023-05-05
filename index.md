@@ -13,6 +13,7 @@ This site is dedicated to the development of open source mechatronics. Specifica
 Please clone from git repositories:  
  - Boards Design: [https://github.com/jhu-cisst/mechatronics-boards](https://github.com/jhu-cisst/mechatronics-boards)  
  - Firmware: [https://github.com/jhu-cisst/mechatronics-firmware](https://github.com/jhu-cisst/mechatronics-firmware)  
+ - Embedded Software (FPGA1394 V3): [https://github.com/jhu-cisst/mechatronics-embedded](https://github.com/jhu-cisst/mechatronics-embedded)
  - Software: [https://github.com/jhu-cisst/mechatronics-software](https://github.com/jhu-cisst/mechatronics-software)  
 
 See also  [Robotics Infrastructure - Mechatronics](http://lcsr.jhu.edu/robotics-infrastructure-development-project).
@@ -30,10 +31,10 @@ See also  [Robotics Infrastructure - Mechatronics](http://lcsr.jhu.edu/robotics-
 ### Hardware
  * FPGA-1394 Board:
    * Release Notes: [Rev 1.x, 2.x](https://github.com/jhu-cisst/FPGA1394#release-notes), [Rev 3.x](https://github.com/jhu-cisst/FPGA1394V3#release-notes)
-   * Schematics: [Rev 3.1](https://github.com/jhu-cisst/FPGA1394V3/blob/main/FPGA1394V3-Schematics.pdf), [Rev 2.1](https://github.com/jhu-cisst/FPGA1394/blob/Rev2.1/FPGA1394-Schematics.pdf), [Rev 2.0](https://github.com/jhu-cisst/FPGA1394/blob/Rev2.0/FPGA1394-Schematics.pdf), [Rev 1.3](https://github.com/jhu-cisst/FPGA1394/blob/Rev1.3/FPGA1394-Schematics.pdf), [Rev 1.2](https://github.com/jhu-cisst/FPGA1394/blob/Rev1.2/FPGA1394-Schematics.pdf), [Rev 1.0/1.1](https://github.com/jhu-cisst/FPGA1394/blob/Rev1.1/FPGA1394-Schematics.pdf)
+   * Schematics: [Rev 3.1](https://github.com/jhu-cisst/FPGA1394V3/blob/Rev3.1/FPGA1394V3-Schematics.pdf), [Rev 2.1](https://github.com/jhu-cisst/FPGA1394/blob/Rev2.1/FPGA1394-Schematics.pdf), [Rev 2.0](https://github.com/jhu-cisst/FPGA1394/blob/Rev2.0/FPGA1394-Schematics.pdf), [Rev 1.3](https://github.com/jhu-cisst/FPGA1394/blob/Rev1.3/FPGA1394-Schematics.pdf), [Rev 1.2](https://github.com/jhu-cisst/FPGA1394/blob/Rev1.2/FPGA1394-Schematics.pdf), [Rev 1.0/1.1](https://github.com/jhu-cisst/FPGA1394/blob/Rev1.1/FPGA1394-Schematics.pdf)
  * Quad Linear Amplifier (QLA) Board:
    * [Release Notes](https://github.com/jhu-cisst/QLA#release-notes)
-   * Schematics: [Rev 1.6](https://github.com/jhu-cisst/QLA/blob/master/QLA-Schematics.pdf), [Rev 1.5](https://github.com/jhu-cisst/QLA/blob/Rev1.5/QLA-Schematics.pdf), [Rev1.4b](https://github.com/jhu-cisst/QLA/blob/Rev1.4b/QLA-Schematics.pdf), [Rev 1.4a](https://github.com/jhu-cisst/QLA/blob/Rev1.4a/QLA-Schematics.pdf), [Rev 1.4](https://github.com/jhu-cisst/QLA/blob/Rev1.4/QLA-Schematics.pdf), [Rev 1.3](https://github.com/jhu-cisst/QLA/blob/Rev1.3-2014/QLA-Schematics.pdf), [Rev 1.2](https://github.com/jhu-cisst/QLA/blob/Rev1.2/QLA-Schematics.pdf)
+   * Schematics: [Rev 1.6](https://github.com/jhu-cisst/QLA/blob/Rev1.6/QLA-Schematics.pdf), [Rev 1.5](https://github.com/jhu-cisst/QLA/blob/Rev1.5/QLA-Schematics.pdf), [Rev1.4b](https://github.com/jhu-cisst/QLA/blob/Rev1.4b/QLA-Schematics.pdf), [Rev 1.4a](https://github.com/jhu-cisst/QLA/blob/Rev1.4a/QLA-Schematics.pdf), [Rev 1.4](https://github.com/jhu-cisst/QLA/blob/Rev1.4/QLA-Schematics.pdf), [Rev 1.3](https://github.com/jhu-cisst/QLA/blob/Rev1.3-2014/QLA-Schematics.pdf), [Rev 1.2](https://github.com/jhu-cisst/QLA/blob/Rev1.2/QLA-Schematics.pdf)
  * Board Assembly (mating of FPGA-1394 to QLA):
    * Qty 4, Round Standoff, Alum. 5/8", McMaster-Carr P/N 93330A436
    * Qty 8, Screw, 4-40
